@@ -1,6 +1,6 @@
 ## Josiel Souza
 
-# Desenvolvedor Full Stack
+https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/globe-showing-americas_1f30e.png # Desenvolvedor Full Stack 
   
 
 
@@ -9,5 +9,6 @@
 
 ![image](https://user-images.githubusercontent.com/39929715/110889762-8539db00-82cd-11eb-9b79-58c1bcbf260c.png) Formado em análise e desenvolvimento de sistemas.
 Desenvolvedor Full Stack Jr pela **Recode Pro**, turma de 2020.
-Possuo conhecimentos e práticas em linguagens como **php**, **java**, **node js**, **javascript**, **react.JS**, **sql**, **linux**, **devops**, **git**,**bootstrap 4**,**infraestrutura e cloud computing**, **segurança em sistemas de informação**, **banco de dados NoSql e relacional**, **desenvolvimento mobile com react native e ionic **.
+Possuo conhecimentos e práticas em linguagens como **php**, **java**, **node js**, **javascript**, **react.JS**, **sql**, **linux**, **devops**, **git**,**bootstrap 4**,**infraestrutura e cloud computing**, **segurança em sistemas de informação**, **banco de dados NoSql e relacional**, **desenvolvimento mobile com react native e ionic**.
+
 
