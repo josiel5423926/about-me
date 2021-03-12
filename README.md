@@ -4,10 +4,7 @@
 
 ## Desenvolvedor Full Stack 
 
-![image](https://user-images.githubusercontent.com/39929715/110889762-8539db00-82cd-11eb-9b79-58c1bcbf260c.png) Formado em análise e desenvolvimento de sistemas.
-Desenvolvedor Full Stack Jr pela **Recode Pro**, turma de 2020.
-
-
+![image](https://user-images.githubusercontent.com/39929715/110889762-8539db00-82cd-11eb-9b79-58c1bcbf260c.png) Desenvolvedor Full Stack Jr pela **Recode Pro**, turma de 2020.
 
 
 - 🎓Graduando em análise e desenvolvimento de sistemas na [FAEX](https://faex.edu.br/)	
@@ -22,6 +19,10 @@ O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 	O  apr
   
 [![Twitter Badge](https://img.shields.io/badge/-@josielsouzadej1-6495ED?style=flat-square&labelColor=6495ED&logo=twitter&logoColor=white&link=https://twitter.com/josielsouzadej1)](https://twitter.com/josielsouzadej1)
 [![LinkedIn Badge](https://img.shields.io/badge/-Josielsouza-6495ED?style=flat-square&labelColor=6495ED&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/josiel-souza/)](https://www.linkedin.com/in/josiel-souza/)
+
+
+
+
 ![image](https://user-images.githubusercontent.com/39929715/110890441-cd0d3200-82ce-11eb-877a-d21408438fae.png)
 
 
