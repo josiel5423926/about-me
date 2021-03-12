@@ -4,7 +4,7 @@
 
 ## Desenvolvedor Full Stack 
 
-![image](https://user-images.githubusercontent.com/39929715/110889762-8539db00-82cd-11eb-9b79-58c1bcbf260c.png) Desenvolvedor Full Stack Jr pela **Recode Pro**, turma de 2020.
+![image](https://user-images.githubusercontent.com/39929715/110889762-8539db00-82cd-11eb-9b79-58c1bcbf260c.png) **Desenvolvedor Full Stack Jr pela** [Recode Pro](https://www.recodepro.org.br/), turma de 2020.
 
 
 - 🎓Graduando em análise e desenvolvimento de sistemas na [FAEX](https://faex.edu.br/)	
@@ -13,6 +13,8 @@
 
 
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 	O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
+
+
 
 
 **Contato**	
