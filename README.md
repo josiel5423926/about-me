@@ -1,6 +1,6 @@
-##Josiel Souza
+## Josiel Souza
 
-#Desenvolvedor Full Stack ![image](https://user-images.githubusercontent.com/39929715/110890000-f5e0f780-82cd-11eb-92c1-80edf6967306.png)
+# Desenvolvedor Full Stack
   
 
 
