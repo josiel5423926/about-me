@@ -9,7 +9,7 @@
 
 - 🎓Graduando em análise e desenvolvimento de sistemas na [FAEX](https://faex.edu.br/)	
 - 💻Possuo conhecimentos e práticas em linguagens como **php**, **java**, **node js**, **javascript**, **react.JS**, **sql**, **linux**, **devops**, **git**,**bootstrap 4**,**infraestrutura e cloud computing**, **segurança em sistemas de informação**, **banco de dados NoSql e relacional**, **desenvolvimento mobile com react native e ionic**.
-- 🎯 Tenho interesse: Engenharia de dados 
+
 
 
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
