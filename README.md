@@ -1,6 +1,7 @@
 ##Josiel Souza
 
-#Desenvolvedor Full Stack![image](https://user-images.githubusercontent.com/39929715/110889379-c7aee800-82cc-11eb-93df-83810c729041.png)
+#Desenvolvedor Full Stack ![image](https://user-images.githubusercontent.com/39929715/110890000-f5e0f780-82cd-11eb-92c1-80edf6967306.png)
+  
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@josielsouzadej1-6495ED?style=flat-square&labelColor=6495ED&logo=twitter&logoColor=white&link=https://twitter.com/josielsouzadej1)](https://twitter.com/josielsouzadej1)
