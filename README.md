@@ -19,7 +19,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 
-**php**, **java**, **python**,  **node js**, **javascript**, **react.JS**, **sql**, **linux**, **devops**, **git**, **bootstrap 4**, **infraestrutura e cloud computing**, **segurança em sistemas de informação**, **banco de dados NoSql e relacional**, **desenvolvimento mobile com react native e ionic**.
+ **java**, **python**,  **node js**, **sql**,  **devops**,  **bootstrap 4**, **infraestrutura e cloud computing**, **segurança em sistemas de informação**, **banco de dados NoSql e relacional**, **desenvolvimento mobile com react native e ionic**.
 
 
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
@@ -31,11 +31,16 @@ O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josiel-souza/804076188/)](https://www.linkedin.com/in/josiel-souza/-804076188/)
 
-<!---->
+<!--
+![image](https://user-images.githubusercontent.com/39929715/110890441-cd0d3200-82ce-11eb-877a-d21408438fae.png)-->
   
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josielsouza&theme=blue-green)](https://github.com/josielsouza/github-readme-stats)
 
-![image](https://user-images.githubusercontent.com/39929715/110890441-cd0d3200-82ce-11eb-877a-d21408438fae.png)
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=josielsouza&theme=blue-green)
+
+
 
 
 
