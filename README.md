@@ -35,7 +35,7 @@ O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀
 ![image](https://user-images.githubusercontent.com/39929715/110890441-cd0d3200-82ce-11eb-877a-d21408438fae.png)-->
   
 
-[1](https://github-readme-stats.vercel.app/api/top-langs/?username=josielsouza&theme=blue-green)![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josielsouza&theme=blue-green)](https://github.com/josielsouza/github-readme-stats)!
+[1](https://github-readme-stats.vercel.app/api/top-langs/?username=josielsouza&theme=blue-green)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josielsouza&theme=blue-green)](https://github.com/josielsouza/github-readme-stats)!
 
 
 
