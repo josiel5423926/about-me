@@ -35,11 +35,10 @@ O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀
 ![image](https://user-images.githubusercontent.com/39929715/110890441-cd0d3200-82ce-11eb-877a-d21408438fae.png)-->
   
 
-<p align = "center">
+
    <a href="https://github.com/josielsouza"><img src="https://github-readme-stats.vercel.app/api?username=josielsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="josielsouza"/></a>
   <a href="https://github.com/josielsouza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josielsouza&layout=compact&theme=dark"/></a> 
  
-</p> 
 
 
 
