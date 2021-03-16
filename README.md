@@ -22,7 +22,7 @@ O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀
 
 [![Twitter Badge](https://img.shields.io/badge/-@josielsouzadej1-6495ED?style=flat-square&labelColor=6495ED&logo=twitter&logoColor=white&link=https://twitter.com/josielsouzadej1)](https://twitter.com/josielsouzadej1)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Josiel-Souza-804076188/)](https://www.linkedin.com/in/josiel-souza/-804076188/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josiel-souza/804076188/)](https://www.linkedin.com/in/josiel-souza/-804076188/)
   
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Josielsouza-6495ED?style=flat-square&labelColor=6495ED&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/josiel-souza/)](https://www.linkedin.com/in/josiel-souza/)
