@@ -35,12 +35,9 @@ O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀
 ![image](https://user-images.githubusercontent.com/39929715/110890441-cd0d3200-82ce-11eb-877a-d21408438fae.png)-->
   
 
-[1](https://github-readme-stats.vercel.app/api/top-langs/?username=josielsouza&theme=blue-green)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josielsouza&theme=blue-green)](https://github.com/josielsouza/github-readme-stats)!
-
 <p align = "center">
-  <a href="https://github.com/felipesantos10"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantos10&layout=compact&theme=dark"/></a> 
-  <a href="https://github.com/felipesantos10"><img src="https://github-readme-stats.vercel.app/api?username=felipesantos10&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="felipesantos10"/></a>
+  <a href="https://github.com/josielsouza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josielsouza&layout=compact&theme=dark"/></a> 
+  <a href="https://github.com/josielsouza"><img src="https://github-readme-stats.vercel.app/api?username=josielsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="josielsouza"/></a>
 </p> 
 
 
