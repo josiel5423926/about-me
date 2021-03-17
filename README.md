@@ -30,11 +30,11 @@
 **segurança em sistemas de informação**, **banco de dados NoSql e relacional**, **desenvolvimento mobile com**![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white) **e ionic**.
 
 
-![segurança da informação](https://img.shields.io/badge/-segurança%20da%20informação-1E90FF?style=flat-square&logo=segurança-da-informação&logoColor=white)
+![SEFURAÇA DA INFORMAÇÃO](https://img.shields.io/badge/-segurança%20da%20informação-1E90FF?style=flat-square&logo=segurança&logoColor=white)
 ![NoSql](https://img.shields.io/badge/-NoSql-4B0082?style=flat-square&logo=NoSql&logoColor=white)
-![relacional](https://img.shields.io/badge/-relacional-483D8B?style=flat-square&logo=relacional&logoColor=white)
-![mobile](https://img.shields.io/badge/-mobile-778899?style=flat-square&logo=mobile&logoColor=white)
-![ionic](https://img.shields.io/badge/-ionic-778899?style=flat-square&logo=ionic&logoColor=white)
+![RELACIONAL](https://img.shields.io/badge/-relacional-483D8B?style=flat-square&logo=relacional&logoColor=white)
+![MOBILE](https://img.shields.io/badge/-mobile-778899?style=flat-square&logo=FHONE&logoColor=white)
+![IONIC](https://img.shields.io/badge/-ionic-0000FF?style=flat-square&logo=ionic&logoColor=white)
 
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
 
