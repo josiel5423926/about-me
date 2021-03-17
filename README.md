@@ -29,7 +29,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
 
- **DESENVOLVIMENTO**![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
+ **DESENVOLVIMENTO MOBILE COM:**![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![IONIC](https://img.shields.io/badge/-ionic-0000FF?style=flat-square&logo=ionic&logoColor=white)
 
 
