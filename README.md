@@ -30,7 +30,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-1E90FF?style=flat-square&logo=SQL&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-4B0082?style=flat-square&logo=bootstrap4&logoColor=white)
 ![reactbootstrap](https://img.shields.io/badge/-reactbootstrap-483D8B?style=flat-square&logo=reactbootstrap&logoColor=white)
-![INFRAESTRUTURA](https://img.shields.io/badge/-infraestrutura-778899?style=flat-square&logo=INFRAESTRUTURA&logoColor=white)
+![INFRAESTRUTURA](https://img.shields.io/badge/-INFRAESTRUTURA-778899?style=flat-square&logo=INFRAESTRUTURA&logoColor=white)
 ![CLOUD COMPUTING](https://img.shields.io/badge/-CLOUD%20COMPUTING-45b8d8?style=flat-square&logo=CLOUD&logoColor=white)
 
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
