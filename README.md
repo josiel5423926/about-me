@@ -35,7 +35,8 @@ LOGO: como GHOST
 
 
 
-![Badge](https://img.shields.io/static/v1?label=java&message=teste&color=blue&style=flat-the-badge&logo=java)
+![Badge](https://img.shields.io/static/v1?label=java&color=blue&style=flat-the-badge&logo=java)
+![Badge](https://img.shields.io/static/v1?label=bootstrap4&color=blue&style=flat-the-badge&logo=bootstrap4)
 
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
 
