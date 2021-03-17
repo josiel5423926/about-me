@@ -23,9 +23,9 @@
 
 
 ![JAVA](https://img.shields.io/badge/-JAVA-696969?style=flat-square&logo=JAVA&logoColor=DimGray)
-![devops](https://img.shields.io/badge/-devops-E34F26?style=flat-square&logo=devops&logoColor=white)
-![python](https://img.shields.io/badge/-python-F05032?style=flat-square&logo=python&logoColor=white)
-![node js](https://img.shields.io/badge/-node.js-16C60C?style=flat-square&logo=node.js&logoColor=white)
+![DevOps](https://img.shields.io/badge/-DevOps-E34F26?style=flat-square&logo=DevOps&logoColor=white)
+![python](https://img.shields.io/badge/-python-B0E0E6?style=flat-square&logo=python&logoColor=white)
+![node js](https://img.shields.io/badge/-node.js-32CD32?style=flat-square&logo=node.js&logoColor=white)
 
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
 
