@@ -37,10 +37,10 @@ O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀
 
 
 
-## Contato:	
+## Contato:	[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josiel-souza/804076188/)](https://www.linkedin.com/in/josiel-souza/-804076188/)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josiel-souza/804076188/)](https://www.linkedin.com/in/josiel-souza/-804076188/)
+
 
 <!--
 ![image](https://user-images.githubusercontent.com/39929715/110890441-cd0d3200-82ce-11eb-877a-d21408438fae.png)-->
