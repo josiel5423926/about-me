@@ -20,7 +20,22 @@
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 
  **java**, **python**,  **node js**, **sql**,  **devops**,  **bootstrap 4**, **infraestrutura e cloud computing**, **segurança em sistemas de informação**, **banco de dados NoSql e relacional**, **desenvolvimento mobile com react native e ionic**.
+LABEL: texto do campo esquerdo
+MESSAGE: texto do campo direto
+COLOR: cor do campo direito, pode usar RGB.
+STYLE: estilo do badge inteiro. Podemos ter: plastic, flat, for-the-badge, social ou flat-square. Teste cada uma delas.
+LOGO: logo do campo esquerdo
+Como exemplo, vou escolher os seguintes parâmetros:
 
+LABEL: como Blog
+MESSAGE: como Rocketseat
+COLOR: 7159c1
+STYLE: como for-the-badge
+LOGO: como GHOST
+
+
+
+![Badge](https://img.shields.io/static/v1?label=java&message=teste&color=blue&style=flat-the-badge&logo=java)
 
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
 
