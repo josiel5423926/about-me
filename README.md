@@ -14,6 +14,9 @@
 ![JAVA](https://img.shields.io/badge/-JAVA-696969?style=flat-square&logo=JAVA&logoColor=DimGray)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
+![IONIC](https://img.shields.io/badge/-ionic-0000FF?style=flat-square&logo=ionic&logoColor=white)
+![POO](https://img.shields.io/badge/-POO-00ADEF?style=flat-square&logo=POO&logoColor=white)
 ![python](https://img.shields.io/badge/-python-1E90FF?style=flat-square&logo=python&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-4B0082?style=flat-square&logo=bootstrap4&logoColor=white)
 ![reactbootstrap](https://img.shields.io/badge/-reactbootstrap-483D8B?style=flat-square&logo=reactbootstrap&logoColor=white)
@@ -29,9 +32,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
 
- **DESENVOLVIMENTO MOBILE COM:**![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
-![IONIC](https://img.shields.io/badge/-ionic-0000FF?style=flat-square&logo=ionic&logoColor=white)
-
+ 
 
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
 
