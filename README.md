@@ -22,7 +22,10 @@
  **java**, **python**,  **node js**, **sql**,  **devops**,  **bootstrap 4**, **infraestrutura e cloud computing**, **segurança em sistemas de informação**, **banco de dados NoSql e relacional**, **desenvolvimento mobile com react native e ionic**.
 
 
-![JAVA](https://img.shields.io/badge/-JAVA-F05032?style=flat-square&logo=JAVA&logoColor=DimGray)
+![JAVA](https://img.shields.io/badge/-JAVA-#696969?style=flat-square&logo=JAVA&logoColor=DimGray)
+![devops](https://img.shields.io/badge/-devops-E34F26?style=flat-square&logo=devops&logoColor=white)
+![python](https://img.shields.io/badge/-python-F05032?style=flat-square&logo=python&logoColor=white)
+![node js](https://img.shields.io/badge/-node.js-16C60C?style=flat-square&logo=node.js&logoColor=white)
 
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
 
