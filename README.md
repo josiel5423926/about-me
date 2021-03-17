@@ -11,21 +11,27 @@
 - 💻 Experiências em  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+![JAVA](https://img.shields.io/badge/-JAVA-696969?style=flat-square&logo=JAVA&logoColor=DimGray)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
+![python](https://img.shields.io/badge/-python-1E90FF?style=flat-square&logo=python&logoColor=white)
+
+![node js](https://img.shields.io/badge/-node.js-32CD32?style=flat-square&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
-
- **java**, **python**,  **node js**, **sql**,  **devops**,  **bootstrap 4**, **infraestrutura e cloud computing**, **segurança em sistemas de informação**, **banco de dados NoSql e relacional**, **desenvolvimento mobile com react native e ionic**.
 
 
-![JAVA](https://img.shields.io/badge/-JAVA-696969?style=flat-square&logo=JAVA&logoColor=DimGray)
-![DevOps](https://img.shields.io/badge/-DevOps-E34F26?style=flat-square&logo=DevOps&logoColor=white)
-![python](https://img.shields.io/badge/-python-B0E0E6?style=flat-square&logo=python&logoColor=white)
-![node js](https://img.shields.io/badge/-node.js-32CD32?style=flat-square&logo=node.js&logoColor=white)
+ **sql**,   **bootstrap 4**, **infraestrutura e cloud computing**, **segurança em sistemas de informação**, **banco de dados NoSql e relacional**, **desenvolvimento mobile com react native e ionic**.
+
+
+![SQL](https://img.shields.io/badge/-SQL-1E90FF?style=flat-square&logo=SQL&logoColor=white)
+![bootstrap4](https://img.shields.io/badge/-bootstrap 4-4B0082?style=flat-square&logo=bootstrap4&logoColor=white)
+![reactbootstrap](https://img.shields.io/badge/-reactbootstrap-483D8B?style=flat-square&logo=reactbootstrap&logoColor=white)
+![infraestrutura](https://img.shields.io/badge/-infraestrutura-778899?style=flat-square&logo=infraestrutura&logoColor=white)
+![cloud computing](https://img.shields.io/badge/-cloud computing-32CD32?style=flat-square&logo=cloud computing&logoColor=white)
 
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
 
