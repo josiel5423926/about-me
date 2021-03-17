@@ -28,7 +28,7 @@
 
 
 ![SQL](https://img.shields.io/badge/-SQL-1E90FF?style=flat-square&logo=SQL&logoColor=white)
-![bootstrap](https://img.shields.io/badge/-bootstrap 4-4B0082?style=flat-square&logo=bootstrap4&logoColor=white)
+![bootstrap](https://img.shields.io/badge/-bootstrap-4B0082?style=flat-square&logo=bootstrap4&logoColor=white)
 ![reactbootstrap](https://img.shields.io/badge/-reactbootstrap-483D8B?style=flat-square&logo=reactbootstrap&logoColor=white)
 ![infraestrutura](https://img.shields.io/badge/-infraestrutura-778899?style=flat-square&logo=infraestrutura&logoColor=white)
 ![cloudcomputing](https://img.shields.io/badge/-cloud computing-32CD32?style=flat-square&logo=cloud computing&logoColor=white)
