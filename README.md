@@ -37,7 +37,7 @@ O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀
 
 
 
-##**Contato**	
+## Contato:	
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josiel-souza/804076188/)](https://www.linkedin.com/in/josiel-souza/-804076188/)
