@@ -14,24 +14,27 @@
 ![JAVA](https://img.shields.io/badge/-JAVA-696969?style=flat-square&logo=JAVA&logoColor=DimGray)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![python](https://img.shields.io/badge/-python-1E90FF?style=flat-square&logo=python&logoColor=white)
+![bootstrap](https://img.shields.io/badge/-bootstrap-4B0082?style=flat-square&logo=bootstrap4&logoColor=white)
+![reactbootstrap](https://img.shields.io/badge/-reactbootstrap-483D8B?style=flat-square&logo=reactbootstrap&logoColor=white)
 
+![SQL](https://img.shields.io/badge/-SQL-1E90FF?style=flat-square&logo=SQL&logoColor=white)
 ![node js](https://img.shields.io/badge/-node.js-32CD32?style=flat-square&logo=node.js&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
+![CLOUD COMPUTING](https://img.shields.io/badge/-CLOUD%20COMPUTING-45b8d8?style=flat-square&logo=CLOUD&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
 
- **sql**,   **bootstrap 4**, **infraestrutura e cloud computing**, **segurança em sistemas de informação**, **banco de dados NoSql e relacional**, **desenvolvimento mobile com react native e ionic**.
+**segurança em sistemas de informação**, **banco de dados NoSql e relacional**, **desenvolvimento mobile com**![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white) **e ionic**.
 
 
-![SQL](https://img.shields.io/badge/-SQL-1E90FF?style=flat-square&logo=SQL&logoColor=white)
-![bootstrap](https://img.shields.io/badge/-bootstrap-4B0082?style=flat-square&logo=bootstrap4&logoColor=white)
-![reactbootstrap](https://img.shields.io/badge/-reactbootstrap-483D8B?style=flat-square&logo=reactbootstrap&logoColor=white)
-![INFRAESTRUTURA](https://img.shields.io/badge/-INFRAESTRUTURA-778899?style=flat-square&logo=INFRAESTRUTURA&logoColor=white)
-![CLOUD COMPUTING](https://img.shields.io/badge/-CLOUD%20COMPUTING-45b8d8?style=flat-square&logo=CLOUD&logoColor=white)
+![segurança da informação](https://img.shields.io/badge/-segurança%20da%20informação-1E90FF?style=flat-square&logo=segurança-da-informação&logoColor=white)
+![NoSql](https://img.shields.io/badge/-NoSql-4B0082?style=flat-square&logo=NoSql&logoColor=white)
+![relacional](https://img.shields.io/badge/-relacional-483D8B?style=flat-square&logo=relacional&logoColor=white)
+![mobile](https://img.shields.io/badge/-mobile-778899?style=flat-square&logo=mobile&logoColor=white)
+![ionic](https://img.shields.io/badge/-ionic-778899?style=flat-square&logo=ionic&logoColor=white)
 
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
 
