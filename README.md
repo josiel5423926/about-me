@@ -2,12 +2,8 @@
 
 ## Prazer, Sou o Josiel!   Um cara que ama tecnologia👨‍💻
 
-### Desenvolvedor Full Stack 
-
-![image](https://user-images.githubusercontent.com/39929715/110889762-8539db00-82cd-11eb-9b79-58c1bcbf260c.png) **Desenvolvedor Full Stack Jr pela** [Recode Pro](https://www.recodepro.org.br/), turma de 2020.
-
-
-- 🎓 Recém formado em  análise e desenvolvimento de sistemas na [FAEX](https://faex.edu.br/)	
+ - 🎓 **Desenvolvedor Full Stack Jr pela** [Recode Pro](https://www.recodepro.org.br/), turma de 2020.
+- 🎓 Recém formado em  **análise e desenvolvimento de sistemas** na [FAEX](https://faex.edu.br/)	
 - 💻 Experiências em  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
