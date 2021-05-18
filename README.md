@@ -50,4 +50,7 @@ O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀
 
    <a href="https://github.com/josielsouza"><img src="https://github-readme-stats.vercel.app/api?username=josielsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="josielsouza"/></a>
   <a href="https://github.com/josielsouza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josielsouza&layout=compact&theme=dark"/></a> 
+  
+  ### Visitor count:
+![Visitor Count](https://profile-counter.glitch.me/josielsouza/count.svg)
  
