@@ -17,7 +17,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![NoSql](https://img.shields.io/badge/-NoSql-4B0082?style=flat-square&logo=NoSql&logoColor=white)
-![BANCO RELACIONAL](https://img.shields.io/badge/-banco-relacional-483D8B?style=flat-square&logo=banco-relacional&logoColor=white)
+![BANCO RELACIONAL](https://img.shields.io/badge/-banco%20relacional-483D8B?style=flat-square&logo=relacional&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-1E90FF?style=flat-square&logo=SQL&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
