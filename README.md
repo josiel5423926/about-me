@@ -2,7 +2,7 @@
 
 ## Prazer, Sou o Josiel!   Um cara que ama tecnologia👨‍💻
 
- - 🎓 **Desenvolvedor Full Stack Jr pela** [Recode Pro](https://www.recodepro.org.br/), turma de 2020.
+ - 🎓 **Desenvolvedor Full Stack Jr pela** [Recode](https://www.recodepro.org.br/), turma de 2020.
  
 - 🎓 Recém formado em  **análise e desenvolvimento de sistemas** na [FAEX](https://faex.edu.br/)	
 
