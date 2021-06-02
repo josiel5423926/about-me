@@ -1,10 +1,10 @@
-# Ola, Mundo! Seja bem-vindo(a)
+# Ola, Mundo! Seja bem-vindo(a).
 
-## Prazer, Sou o Josiel!   Um cara que ama tecnologia👨‍💻
+## Prazer, Sou o Josiel!   Um cara que ama tecnologia👨‍💻.
 
  - 🎓 **Desenvolvedor Full Stack Jr pela** [Recode](https://www.recodepro.org.br/), turma de 2020.
  
-- 🎓 Recém formado em  **análise e desenvolvimento de sistemas** na [FAEX](https://faex.edu.br/)	
+- 🎓 Recém formado em  **análise e desenvolvimento de sistemas** na [FAEX](https://faex.edu.br/).
 
 - 💻 Experiências em :
 
@@ -12,23 +12,24 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![JAVA](https://img.shields.io/badge/-JAVA-696969?style=flat-square&logo=JAVA&logoColor=DimGray)
+![POO](https://img.shields.io/badge/-POO-00ADEF?style=flat-square&logo=POO&logoColor=white)
+![ECLIPSE](https://img.shields.io/badge/-ECLIPSE-00ADEF?style=flat-square&logo=ECLIPSE&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![NoSql](https://img.shields.io/badge/-NoSql-4B0082?style=flat-square&logo=NoSql&logoColor=white)
+![BANCO RELACIONAL](https://img.shields.io/badge/-banco-relacional-483D8B?style=flat-square&logo=banco-relacional&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-1E90FF?style=flat-square&logo=SQL&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![IONIC](https://img.shields.io/badge/-ionic-0000FF?style=flat-square&logo=ionic&logoColor=white)
-![POO](https://img.shields.io/badge/-POO-00ADEF?style=flat-square&logo=POO&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![python](https://img.shields.io/badge/-python-1E90FF?style=flat-square&logo=python&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-4B0082?style=flat-square&logo=bootstrap4&logoColor=white)
 ![reactbootstrap](https://img.shields.io/badge/-reactbootstrap-483D8B?style=flat-square&logo=reactbootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![NoSql](https://img.shields.io/badge/-NoSql-4B0082?style=flat-square&logo=NoSql&logoColor=white)
-![RELACIONAL](https://img.shields.io/badge/-relacional-483D8B?style=flat-square&logo=relacional&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-1E90FF?style=flat-square&logo=SQL&logoColor=white)
 ![node js](https://img.shields.io/badge/-node.js-32CD32?style=flat-square&logo=node.js&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![CLOUD COMPUTING](https://img.shields.io/badge/-CLOUD%20COMPUTING-45b8d8?style=flat-square&logo=CLOUD&logoColor=white)
 ![SEFURAÇA DA INFORMAÇÃO](https://img.shields.io/badge/-segurança%20da%20informação-1E90FF?style=flat-square&logo=segurança&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
 
