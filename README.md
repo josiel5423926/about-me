@@ -20,7 +20,6 @@
 ![BANCO RELACIONAL](https://img.shields.io/badge/-banco%20relacional-483D8B?style=flat-square&logo=RELACIONAL&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-1E90FF?style=flat-square&logo=SQL&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
-![IONIC](https://img.shields.io/badge/-ionic-0000FF?style=flat-square&logo=ionic&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-4B0082?style=flat-square&logo=bootstrap4&logoColor=white)
 ![reactbootstrap](https://img.shields.io/badge/-reactbootstrap-483D8B?style=flat-square&logo=reactbootstrap&logoColor=white)
