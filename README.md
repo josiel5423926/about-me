@@ -1,4 +1,4 @@
-# Ola, Mundo! Seja bem-vindo(a).
+# Olá, Mundo! Seja bem-vindo(a).
 
 ## Prazer, Sou o Josiel!   Um cara que ama tecnologia👨‍💻.
 
@@ -23,6 +23,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-4B0082?style=flat-square&logo=bootstrap4&logoColor=white)
 ![reactbootstrap](https://img.shields.io/badge/-reactbootstrap-483D8B?style=flat-square&logo=reactbootstrap&logoColor=white)
+![react](https://img.shields.io/badge/-react-483D8B?style=flat-square&logo=react&logoColor=white)
 ![node js](https://img.shields.io/badge/-node.js-32CD32?style=flat-square&logo=node.js&logoColor=white)
 ![SEFURAÇA DA INFORMAÇÃO](https://img.shields.io/badge/-segurança%20da%20informação-1E90FF?style=flat-square&logo=segurança&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
