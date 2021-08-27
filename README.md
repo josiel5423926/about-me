@@ -1,6 +1,6 @@
 # Olá, Mundo! Seja bem-vindo(a).
 
-## Prazer, Sou o Josiel!   Um cara que ama tecnologia👨‍💻.
+## Prazer, Sou o Josiel!👨‍💻
 
  - 🎓 **Desenvolvedor Full Stack Jr pela** [Recode](https://www.recodepro.org.br/), turma de 2020.
  
