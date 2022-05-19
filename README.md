@@ -4,7 +4,7 @@
 
  - 🎓 **Desenvolvedor Full Stack Jr pela** [Recode](https://www.recodepro.org.br/), turma de 2020.
  
-- 🎓 Formado em  **análise e desenvolvimento de sistemas** na [FAEX](https://faex.edu.br/).
+- 🎓 Formado em  **análise e desenvolvimento de sistemas** na [FAEX](https://faex.edu.br/), turma de 2017.
 
 - 💻 Experiências em :
 
