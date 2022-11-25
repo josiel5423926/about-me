@@ -39,7 +39,7 @@ O aprendizado é contínuo e o próximo nível nunca será o último  🚀
 ## Contato:	[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josiel-souza/804076188/)](https://www.linkedin.com/in/josiel-souza/-804076188/)
 
 
-   <a href="https://github.com/josielsouza"><img src="https://github-readme-stats.vercel.app/api?username=josielsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="josielsouza"/></a>
+  <a href="https://github.com/josielsouza"><img src="https://github-readme-stats.vercel.app/api?username=josielsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="josielsouza"/></a>
   <a href="https://github.com/josielsouza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josielsouza&layout=compact&theme=dark"/></a> 
   
   ### Visitor count:
