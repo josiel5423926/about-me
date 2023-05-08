@@ -5,7 +5,7 @@
  - 🎓 **Desenvolvedor Full Stack Jr pela** [Recode](https://www.recodepro.org.br/), turma de 2020.
  
 - 🎓 Formado em  **análise e desenvolvimento de sistemas** na [FAEX](https://faex.edu.br/), turma de 2017.
-
+-  Desenvolvedor Full Stack na** [Badico](https://badico.cloud/pt/).
 - 💻 Experiências em :
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -28,10 +28,4 @@
 ![SEFURAÇA DA INFORMAÇÃO](https://img.shields.io/badge/-segurança%20da%20informação-1E90FF?style=flat-square&logo=segurança&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
-
- ##
-
-
 O aprendizado é contínuo e o próximo nível nunca será o último  🚀 
-
-
